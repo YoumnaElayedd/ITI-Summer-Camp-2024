@@ -1,4 +1,5 @@
-House Prices Prediction – Kaggle Competition
+*House Prices Prediction – Kaggle Competition
+
 This repository contains my solution to the House Prices: Advanced Regression Techniques competition on Kaggle, completed during my training at the Information Technology Institute (ITI).
 
 📚 Overview
